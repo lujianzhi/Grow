@@ -3,7 +3,7 @@
 ***
 
 ## 算法学习
-- [LeetCode刷题](StudyPlan/algorithm/catalog/md)
+- [LeetCode刷题](StudyPlan/algorithm/catalog.md)
 
 <br>
 <br>
