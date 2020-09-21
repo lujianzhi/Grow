@@ -35,7 +35,7 @@
 <br>
 
 ## 面试总结
-- [2020面试总结](StudyPlan/interview/2020面试总结.md)
+- [2020面试总结](https://juejin.im/post/6874829105716527112)
 
 <br>
 <br>
